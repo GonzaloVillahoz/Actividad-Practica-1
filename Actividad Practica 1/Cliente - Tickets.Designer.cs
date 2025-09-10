@@ -80,7 +80,7 @@
             this.dateTimePicker1.CustomFormat = "";
             this.dateTimePicker1.Location = new System.Drawing.Point(105, 40);
             this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(251, 22);
+            this.dateTimePicker1.Size = new System.Drawing.Size(279, 22);
             this.dateTimePicker1.TabIndex = 1;
             // 
             // groupBox1
@@ -260,18 +260,18 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(713, 356);
+            this.button1.Location = new System.Drawing.Point(695, 356);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(93, 23);
             this.button1.TabIndex = 7;
             this.button1.Text = "Cancelar";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(632, 356);
+            this.button2.Location = new System.Drawing.Point(597, 356);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.Size = new System.Drawing.Size(92, 23);
             this.button2.TabIndex = 8;
             this.button2.Text = "Guardar";
             this.button2.UseVisualStyleBackColor = true;
@@ -280,7 +280,7 @@
             // 
             this.button3.Location = new System.Drawing.Point(102, 377);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
+            this.button3.Size = new System.Drawing.Size(104, 23);
             this.button3.TabIndex = 9;
             this.button3.Text = "Actualizar";
             this.button3.UseVisualStyleBackColor = true;
